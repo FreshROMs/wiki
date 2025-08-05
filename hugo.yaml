@@ -40,6 +40,10 @@ menu:
       params:
         icon: discord
 
+services:
+  googleAnalytics:
+    ID: G-QDFMW2Q02N
+
 params:
   copyright: "© 2024 FreshROMs"
   navbar:
