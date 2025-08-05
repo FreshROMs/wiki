@@ -40,7 +40,7 @@ With an unlocked bootloader, it is now possible to install software made by thir
 * Your device, preferably charged to **at least 60%**.
 * The Samsung USB drivers installed. [Get it by clicking here.](https://developer.samsung.com/android-usb-driver)
 * Odin, a firmware installation tool from Samsung. [Get it by clicking here.](https://forum.xda-developers.com/t/patched-odin-3-13-1.3762572/)
-* The latest available version of TWRP that can be installed using Odin. [Get it by clicking here.](https://github.com/TenSeventy7/android_recovery_exynos9610_ci/releases/download/ci_36/ODIN-TWRP_v3.7.0-Unofficial_a50-1666700569.tar)
+* The latest available version of TWRP that can be installed using Odin. [Get it by clicking here.](https://drive.google.com/file/d/1XXnGHajLWNU7UeF6UduATE6qH19_qJ8N/view?usp=sharing)
 
 
 
