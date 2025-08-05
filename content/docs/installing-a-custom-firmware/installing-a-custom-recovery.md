@@ -39,10 +39,9 @@ With an unlocked bootloader, it is now possible to install software made by thir
 * A good, supported USB **cable**, make sure the cable does not lose connection immediately when plugged in
 * Your device, preferably charged to **at least 60%**.
 * The Samsung USB drivers installed. [Get it by clicking here.](https://developer.samsung.com/android-usb-driver)
-* Odin, a firmware installation tool from Samsung. [Get it by clicking here.](https://forum.xda-developers.com/t/patched-odin-3-13-1.3762572/)
+* Odin, a firmware installation tool from Samsung. [Get it by clicking here.](https://dl2018.sammobile.com/Odin.zip)
 * The latest available version of TWRP that can be installed using Odin. [Get it by clicking here.](https://drive.google.com/file/d/1XXnGHajLWNU7UeF6UduATE6qH19_qJ8N/view?usp=sharing)
-
-
+* A way to disable verification for firmware installed in the system. [Get it by clicking here.](https://drive.google.com/file/d/1kMFnVKTR3uk1o4SQcEG9f353eu-FRkz7/view)
 
 ### Installing a custom recovery on your device using Odin
 
@@ -53,10 +52,11 @@ With an unlocked bootloader, it is now possible to install software made by thir
 5. Your device will turn on to a **teal** screen. This is your device's **download mode**.
 6. **Press** the **volume up button** once. Your device's screen will now display multiple lines of text and the Odin will show a green box showing some device information.
 7. Click the **AP** button and point it to the **downloaded .tar file for TWRP**.
-8. On your device, **long-press** the **volume up button**.
-9. On your PC, click **Start**. Ensure you are still **long-pressing** the **volume up button**.
-10. Your device will automatically restart. **DO NOT** release the **volume up button.**
-11. Your device will automatically start to TWRP. You can now choose to install Fresh, backup data, or install the [Multidisabler Tool](https://forum.xda-developers.com/t/pie-10-11-system-as-root-multidisabler-disables-encryption-vaultkeeper-auto-flash-of-stock-recovery-proca-wsm-cass-etc.3919714/) if you are not planning to install Fresh **immediately**.
+8. Click the **USERDATA** button and point it to the **downloaded .tar file for 'vbmeta_patched.tar.md5'**.
+9. On your device, **long-press** the **volume up button**.
+10. On your PC, click **Start**. Ensure you are still **long-pressing** the **volume up button**.
+11. Your device will automatically restart. **DO NOT** release the **volume up button.**
+12. Your device will automatically start to TWRP. You can now choose to install Fresh, backup data, or install the [Multidisabler Tool](https://forum.xda-developers.com/t/pie-10-11-system-as-root-multidisabler-disables-encryption-vaultkeeper-auto-flash-of-stock-recovery-proca-wsm-cass-etc.3919714/) if you are not planning to install Fresh **immediately**.
 
 
 
