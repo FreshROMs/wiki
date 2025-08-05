@@ -1,18 +1,21 @@
 ---
-title: Documentation
-next: first-page
+title: 📚 Wiki
 ---
 
-This is a demo of the theme's documentation layout.
+## Get started with Fresh today
 
-## Hello, World!
+### A new user planning to install Fresh?
 
-```go {filename="main.go"}
-package main
+The steps below will help you unlock your device's bootloader, to installing a custom recovery and Fresh.
 
-import "fmt"
+{{< cards cols="1" >}}
+  {{< card link="docs/installing-a-custom-firmware/" title="📲 Installing a Custom Firmware" subtitle="This guide shows on how to install a custom firmware on your Galaxy device." >}}
+{{< /cards >}}
 
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+### A user from AOSP or a different One UI firmware?
+
+Cut to the chase and install Fresh over your existing custom ROM today.
+
+{{< cards cols="1" >}}
+  {{< card link="docs/installing-a-custom-firmware/installing-fresh/" title="🍋 Installing Fresh" subtitle="This is a guide on installing Fresh." >}}
+{{< /cards >}}
