@@ -128,11 +128,11 @@ If you are not certain whether your data is automatically backed up, you can bac
 
 Migrate is a free, very-comprehensive back up solution to your local data. With the ability to back up the entire data portion of an app, you'll be sure that nothing is lost when you restore your data using Migrate.
 
-
-
 Get the Migrate app from the Google Play Store:
 
-{% embed url="https://play.google.com/store/apps/details?id=balti.migrate" %}
+{{< cards cols="1" >}}
+  {{< card link="https://play.google.com/store/apps/details?id=balti.migrate" title="Migrate - Data Backup" subtitle="Open source app to backup and restore user data. As of now migrate supports the following data backup and restore." >}}
+{{< /cards >}}
 
 ### Backing up your data using Migrate
 
