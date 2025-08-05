@@ -20,7 +20,7 @@ markup:
 menu:
   main:
     - name: Download
-      pageRef: /
+      url: https://freshroms.github.io/
       weight: 1
     - name: Docs
       pageRef: /docs
